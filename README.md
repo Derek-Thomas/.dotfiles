@@ -1,2 +1,2 @@
 # .dotfiles
-Configs
+Configs for the things
