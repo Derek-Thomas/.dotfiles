@@ -4,3 +4,5 @@
 .Trashes
 .fseventsd
 .AppleDouble
+
+**/.claude/settings.local.json
